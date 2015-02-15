@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: OctoPrint-RemoteSlic3r
+Version: 0.1
+Summary: Adds support for slicing via a remote Slic3r from within OctoPrint
+Home-page: UNKNOWN
+Author: Tim Hollabaugh
+Author-email: haytowntim@embarqmail.net
+License: AGPLv3
+Description: UNKNOWN
+Platform: UNKNOWN

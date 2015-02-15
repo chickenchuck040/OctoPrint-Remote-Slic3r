@@ -1,0 +1,11 @@
+setup.py
+OctoPrint_RemoteSlic3r.egg-info/PKG-INFO
+OctoPrint_RemoteSlic3r.egg-info/SOURCES.txt
+OctoPrint_RemoteSlic3r.egg-info/dependency_links.txt
+OctoPrint_RemoteSlic3r.egg-info/entry_points.txt
+OctoPrint_RemoteSlic3r.egg-info/not-zip-safe
+OctoPrint_RemoteSlic3r.egg-info/requires.txt
+OctoPrint_RemoteSlic3r.egg-info/top_level.txt
+remote_slic3r/__init__.py
+remote_slic3r/profile.py
+remote_slic3r/profilenew.py

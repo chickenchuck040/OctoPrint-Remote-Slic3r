@@ -1,0 +1,3 @@
+[octoprint.plugin]
+slic3r = remote_slic3r
+

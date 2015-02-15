@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: OctoPrint-Slic3r
+Version: 0.1
+Summary: Adds support for slicing via Slic3r from within OctoPrint
+Home-page: http://github.com/OctoPrint/OctoPrint-Slic3r
+Author: Gina Häußge
+Author-email: osd@foosel.net
+License: AGPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
